@@ -18,6 +18,7 @@ A complete directory of all free, browser-native tools available on [TryFormatte
 - [AI FAQ Generator (Smart Extract)](https://www.tryformatter.com/seo/ai-faq-generator) - Automatically extract and generate FAQ sections from your content locally. Boost SERP visibility with FAQ schema.
 - [AI SEO Content Brief Generator](https://www.tryformatter.com/seo/ai-content-brief-generator) - Generate optimized article outlines and SEO content briefs locally. Plan your heading hierarchy and keyword strategy.
 - [AI Tone & Readability Analyzer](https://www.tryformatter.com/seo/ai-tone-analyzer) - Analyze content tone, sentiment, and readability locally. Improve SEO writing by matching user intent.
+- [SEO Report & Website Auditor](https://www.tryformatter.com/seo/seo-report-generator) - Scan and analyze any webpage for on-page SEO issues, check headers, links, images, and export the audit report as a PDF.
 
 ## Intelligence Tools
 
@@ -97,6 +98,8 @@ A complete directory of all free, browser-native tools available on [TryFormatte
 - [Advanced URL Parser](https://www.tryformatter.com/converter/url-parser) - Deconstruct full URLs into protocol, host, path, and query parameters. Inspect and edit URL components individually.
 - [SQL to JSON Converter](https://www.tryformatter.com/converter/sql-to-json) - Transform SQL INSERT statements into structured JSON arrays instantly. Perfect for migrating legacy database data to modern web APIs and mocks.
 - [Scientific Calculator](https://www.tryformatter.com/converter/scientific-calculator) - A professional-grade browser calculator with support for trigonometry, logarithms, and advanced mathematical functions.
+- [Video to GIF Converter](https://www.tryformatter.com/converter/video-to-gif) - Convert your MP4, WEBM, or MOV videos to GIF format privately. Processing runs entirely in your browser using local resources.
+- [GIF Viewer & Frame Inspector](https://www.tryformatter.com/converter/gif-viewer) - Preview animated GIFs with play/pause controls and frame inspection. Runs entirely in your browser with no server upload required.
 
 ## Image Tools
 
@@ -137,6 +140,12 @@ A complete directory of all free, browser-native tools available on [TryFormatte
 - [Compress Image to KB (10KB, 20KB, 50KB, 100KB)](https://www.tryformatter.com/image/compress-image-kb) - Compress images to 10KB, 20KB, 50KB, 100KB, or custom KB limits in your browser with no upload. Includes form crop presets.
 - [Image to Text (OCR)](https://www.tryformatter.com/image/image-to-text) - Extract text from images and screenshots in your browser with no upload. OCR runs locally so documents stay private.
 - [Image Cropper](https://www.tryformatter.com/image/image-crop) - Crop images into circles, squares, or custom sizes securely in your browser with no upload.
+- [Bulk WebP Converter](https://www.tryformatter.com/image/bulk-webp-converter) - Convert JPG, PNG, GIF, SVG, and WebP files to WebP in bulk with browser-local processing and ZIP download.
+- [Bulk JPG to PNG Converter](https://www.tryformatter.com/image/bulk-jpg-to-png) - Convert JPG and JPEG files to PNG in bulk with browser-local no-upload processing and ZIP download.
+- [Bulk AVIF Converter](https://www.tryformatter.com/image/bulk-avif-converter) - Convert images to AVIF in bulk with browser-local processing, quality control, and ZIP download.
+- [Bulk HEIC Converter](https://www.tryformatter.com/image/bulk-heic-converter) - Batch convert HEIC to JPG securely and privately. It runs entirely in your browser.
+- [Bulk Rename Images](https://www.tryformatter.com/image/bulk-rename-images) - Rename image files in bulk with patterns, numbering, preview, and no-upload ZIP download.
+- [Bulk Image Cropper](https://www.tryformatter.com/image/bulk-image-cropper) - Crop images in bulk with shared ratios, browser-local processing, and ZIP download with no upload.
 
 ## Pdf Tools
 
@@ -147,6 +156,11 @@ A complete directory of all free, browser-native tools available on [TryFormatte
 - [PDF Splitter](https://www.tryformatter.com/pdf/pdf-splitter) - Split a large PDF into individual pages or extract specific page ranges into new documents instantly.
 - [PDF Protector & Encryptor](https://www.tryformatter.com/pdf/pdf-protector) - Add password protection and encrypt your PDF documents. Secure sensitive information with free online tool encryption.
 - [PDF Metadata Editor](https://www.tryformatter.com/pdf/pdf-metadata-editor) - View and edit PDF metadata including Title, Author, Subject, and Keywords. Optimize your documents for SEO and organization.
+- [PDF Unlocker](https://www.tryformatter.com/pdf/pdf-unlocker) - Remove passwords and permissions blocks from PDF files online for free. Decrypt files securely and privately in your browser.
+- [PDF Watermark Adder](https://www.tryformatter.com/pdf/pdf-watermark-adder) - Add text watermarks to PDF files online for free. Customize size, angle, color, and transparency. No upload, runs in your browser.
+- [PDF Page Remover](https://www.tryformatter.com/pdf/pdf-page-remover) - Remove pages from PDF files online for free. Delete specific pages, select ranges, or click page previews to remove. No upload, runs in your browser.
+- [AI PDF Summarizer & OCR](https://www.tryformatter.com/pdf/ai-pdf-summarizer) - Summarize PDF files online for free. Extract text, run local image OCR, select page ranges, and generate key summaries and action items privately in your browser.
+- [PDF to Word Converter](https://www.tryformatter.com/pdf/pdf-to-word) - Convert PDF documents to editable Microsoft Word (.docx) files online for free. No upload, runs entirely in your browser, 100% private.
 
 ## Security Tools
 
@@ -156,3 +170,15 @@ A complete directory of all free, browser-native tools available on [TryFormatte
 - [XML Schema Validator](https://www.tryformatter.com/security/xml-validator) - Validate your XML data for structural correctness. Detect parsing errors and find line numbers for broken tags.
 - [HTML Validator & Linter](https://www.tryformatter.com/security/html-validator) - Check your HTML code for structural errors, missing tags, and deprecated attributes. Improve web accessibility.
 
+## Calculator Tools
+
+- [Age Calculator](https://www.tryformatter.com/calculator/age-calculator) - Calculate exact age from DOB for school, job, or exam forms locally in your browser.
+
+## Exam Tools
+
+- [Exam Photo & Signature Resizer](https://www.tryformatter.com/exam/exam-photo-signature-resizer) - Simple browser-local exam photo and signature resizer with presets, custom dimensions, and JPG KB compression.
+- [CTET Photo Resize 2026](https://www.tryformatter.com/exam/ctet-photo-resize-2026) - Resize and compress CTET September 2026 photos to JPG/JPEG, 3.5cm x 4.5cm, and 10KB-100KB locally in your browser.
+- [CTET Signature Resize 2026](https://www.tryformatter.com/exam/ctet-signature-resize-2026) - Resize and compress CTET September 2026 signatures to JPG/JPEG, 3.5cm x 1.5cm, and 3KB-30KB locally in your browser.
+- [CTET Photo & Signature Resize 2026](https://www.tryformatter.com/exam/ctet-photo-and-signature-resize-2026) - Resize CTET September 2026 photo and signature files to official JPG/JPEG dimensions and KB limits locally in your browser.
+- [Combine Photo and Signature Online](https://www.tryformatter.com/exam/combine-photo-and-signature) - Combine photo and signature vertically into a single image online. Free browser-local tool to merge photo and signature for UPSC, UPPSC OTR, and recruitment portals.
+- [Online Typing Master & Test](https://www.tryformatter.com/exam/typing-master) - Learn and test your Hindi and English typing speed with lessons 1 to 25 and customizable timers. Specially designed for SSC and Stenographer candidates.
